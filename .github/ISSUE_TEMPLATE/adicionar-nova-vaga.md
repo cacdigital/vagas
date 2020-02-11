@@ -1,5 +1,6 @@
 ---
 name: Backend Developer
+about: Descrição da vaga de Backend Developer na 2SOW
 title: "[Remoto] Backend Developer na 2SOW"
 labels: ''
 assignees: ''
