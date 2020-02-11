@@ -1,6 +1,6 @@
 ---
 name: Backend Developer
-about: Descrição da vaga de Backend Developer na 2SOW
+about: Utilize esse template para criar uma nova vaga
 title: "[Remoto] Backend Developer na 2SOW"
 labels: ''
 assignees: ''
