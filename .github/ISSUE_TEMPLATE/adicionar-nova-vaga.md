@@ -9,45 +9,40 @@ assignees: ''
 
 ## Descrição da vaga
 
- - Trabalhar em APIs utilizando PHP 7, Rest e GraphQL com Slim Framework e componentes da comunidade
- - Escrever testes automatizados
- - Aplicar boas práticas de codificação (SOLID) e de OOP (baixo acoplamento e alta coesão)
- - Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas
- - Participar do processo criativo e auxiliar na construção dos sistemas
- - Colaborar na automatização de processos internos (CI e CD)
- - Nos deixar impressionados com sua capacidade criativa
+ - Trabalhar em APIs utilizando PHP 7, Rest e GraphQL;
+ - Escrever testes automatizados;
+ - Aplicar boas práticas de codificação (SOLID) e de OOP;
+ - Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;
+ - Participar do processo criativo e auxiliar na construção dos sistemas;
+ - Colaborar na automatização de processos internos (CI e CD);
+ - Nos deixar impressionados com sua capacidade criativa.
  
 ## Local
 
- - Remoto ou Escritório, Santa Barbara D'Oeste / SP
+ - Remoto ou Escritório, Santa Barbara D'Oeste / SP;
  
 ## Horário de trabalho
 
- - Segunda a Quinta das 8h às 17:15 e Sexta das 8h às 16h
+ - Segunda a Quinta das 8h às 17:15 e Sexta das 8h às 16h;
  
 ## Benefícios
 
- - Vale alimentação
- - Reembolso de viagens caso seja remoto e venha para a empresa esporadicamente
- - No caso de home office, ou caso o profissional deseje trabalhar com seu próprio equipamento, há um reembolso mensal pelo uso
-
-## Diferenciais
-
- - Área de descanso
- - Frutas no escritório
- - Café expresso ou coado
+ - Vale alimentação;
+ - Reembolso de viagens caso seja remoto e venha para a empresa esporadicamente;
+ - No caso de home office, ou caso o profissional deseje trabalhar com seu próprio equipamento, há um reembolso mensal pelo uso.
 
 ## Requisitos
 
 **Obrigatórios:**
 
- - Ter experiência relevante em PHP OOP
- - Ter conhecimento em SOLID e boas práticas de programação
- - Ter conhecimento em testes unitários usando PHPUnit
+ - Ter experiência relevante em PHP OOP;
+ - Ter conhecimento em SOLID e boas práticas de programação;
+ - Ter conhecimento em testes unitários usando PHPUnit.
  
 **Diferenciais:**
 
- - Ter conhecimento dos conceitos do GraphQL
+ - Ter conhecimento dos conceitos do GraphQL;
+ - Ter conhecimento em ferramentas de Frontend.
 
 ## Contratação
 
@@ -59,5 +54,7 @@ Percepção, motivação e aprendizagem são os elementos propulsores do desenvo
 
 ## Como se candidatar
 
-Por favor envie um email para tulio@cacdigital.com.br com o seu CV anexado - enviar no assunto: **Vaga Backend**
+Por favor envie um email para tulio@cacdigital.com.br com o seu CV anexado 
+Enviar no assunto: **Vaga Backend**
+
 
